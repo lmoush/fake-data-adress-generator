@@ -1,0 +1,16 @@
+.item_user {
+  width: 250px;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 19px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #191919;
+}
+.item_user button {
+  border: 1px solid #191919;
+}
+
+.img_size {
+  width: 100px;
+  height: 100px;
+}/*# sourceMappingURL=style.css.map */
